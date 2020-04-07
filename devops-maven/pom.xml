@@ -4,7 +4,7 @@
   <artifactId>devops-maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  <!-- adding the dependencies -->
+  <!-- adding the dependencies for the Junit -->
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
